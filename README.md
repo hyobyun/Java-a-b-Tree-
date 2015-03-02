@@ -1,4 +1,4 @@
-# Java-a-b-Tree-
+# Java (a,b) Tree Implementation
 A (a,b) Tree implementation in Java.
 
 What the Hell is an (a,b) tree
